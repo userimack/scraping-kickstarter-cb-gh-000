@@ -21,8 +21,8 @@ def create_project_hash
   projects
 end
 
-pry.binding 
-create_project_hash
+#pry.binding 
+#create_project_hash
 # projects: kickstarter.css("li.project.grid_4")
 # title: 
 #image_link: project.css("div.project-thumbnail a img").attribute("src").value
